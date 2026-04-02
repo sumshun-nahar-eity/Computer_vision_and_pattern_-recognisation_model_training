@@ -1,0 +1,1 @@
+# Computer_vision_and_pattern_-recognisation_model_training
